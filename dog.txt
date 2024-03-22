@@ -1,0 +1,4 @@
+labradoodle
+
+
+<img src="path/to/your/image.jpg" alt="Image Description" data-header="Photo by John Doe" data-footer="2023-03-20">
